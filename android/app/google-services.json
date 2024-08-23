@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343954650758",
+    "project_id": "fir-getx-app-a35ba",
+    "storage_bucket": "fir-getx-app-a35ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343954650758:android:6dd56cd0405f079e124307",
+        "android_client_info": {
+          "package_name": "com.alhariri.firebase_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXi8iqNYwP6wYw4koNBaSaUZ6-jmvk_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
